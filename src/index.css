@@ -1,0 +1,17 @@
+body{
+  font-family:  'Sanchez', serif, Courier, monospace;
+}
+
+.container{
+
+  margin: 165px;
+   
+ display: flex;
+  
+}
+
+
+.text{
+
+  align-items: center;
+}
