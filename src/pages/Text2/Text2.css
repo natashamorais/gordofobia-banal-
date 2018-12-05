@@ -1,0 +1,9 @@
+.secondText{
+  background-image: radial-gradient(circle, #fe5757, #ff4e4d, #ff4443, #ff3a39, #fe2e2e);
+  height: 625.5px;
+  display: flex;
+}
+
+.container{
+  align-items: center;
+}

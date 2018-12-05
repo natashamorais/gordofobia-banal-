@@ -1,0 +1,11 @@
+
+.textHome{
+  background-image: radial-gradient(circle, #fe9090, #fe8c8c, #fe8989, #fe8585, #fe8181);
+  height: 625.5px;
+  display: flex;
+}
+
+.container{
+  align-items: center;
+}
+
