@@ -1,10 +1,16 @@
+*{
+  box-sizing: border-box; 
+  margin: 0 auto; 
+}
+
+
 body{
   font-family:  'Sanchez', serif, Courier, monospace;
 }
 
 .container{
 
-  margin: 165px;
+  /* margin: 165px; */
    
  display: flex;
   
@@ -13,5 +19,5 @@ body{
 
 .text{
 
-  align-items: center;
+  /* align-items: center; */
 }
