@@ -1,0 +1,15 @@
+.seventhText{
+  /* background-image: radial-gradient(circle, #ff0000, #ef0000, #df0000, #cf0000, #bf0000);
+  background-image: radial-gradient(circle, #cb2424, #c62323, #c02222, #bb2121, #b62020); */
+  background-image: radial-gradient(circle, #fe2e2e, #f12b2b, #e42929, #d82626, #cb2424);
+  height: 625.5px;
+  display: flex;
+}
+
+
+.container_seventh{
+  align-items: center;
+  margin: 150px 200px;
+}
+
+

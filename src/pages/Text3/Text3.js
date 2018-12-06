@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import TextTyping from '../../components/TextTyping'
-import { withRouter } from 'react-router-dom'
+import { withRouter } from 'react-router'
 import './Text3.css'
 
 
@@ -9,7 +9,7 @@ class Text3 extends Component {
     return (
       <div className="thirdText">
         <div className="container">
-          <TextTyping className="text" router="/Text4" text=" T E X T O   T R E S  " / >
+          <TextTyping className="text" router="/Text4" text=" Tosse? É refluxo por causa do peso, emagreça!" > </TextTyping>
           
 
         </div>

@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
 import TextTyping from '../../components/TextTyping'
-// import { withRouter } from '.react-router'
+import { withRouter } from 'react-router'
 import './Text4.css'
 
 class Text4 extends Component {
   render() {
     return (
       <div className="fourthText">
-        <div className= "container">
-          <TextTyping className="Text" text = "texto quatroo"> </TextTyping>
-        </div>
+        <div className="container">
+          <TextTyping className="Text" text="Dor de barriga? Você come demais, emagreça !" router ="/Text5"> </TextTyping>
+      </div>
       </div>
 
 
@@ -17,4 +17,4 @@ class Text4 extends Component {
   }
 }
 
-export default Text4
+export default withRouter(Text4)

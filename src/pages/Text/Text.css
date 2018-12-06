@@ -5,7 +5,8 @@
   display: flex;
 }
 
-.container{
+.container_home{
   align-items: center;
+  margin: 250px 600px;
 }
 

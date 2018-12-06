@@ -10,8 +10,8 @@ class Text extends Component {
   render() {
     return (
       <div className="textHome">
-        <div className="container">
-          <TextTyping className="text" router="/Text1" text="G O R D A .">
+        <div className="container_home">
+          <TextTyping className="text" router="/Text1" text= "G O R D A">
           </TextTyping>
 
         </div>

@@ -1,10 +1,11 @@
 
 .firstText{
-  background-image: radial-gradient(circle, #fe8181, #ff7777, #ff6d6c, #ff6262, #fe5757);
+  background-image: linear-gradient(to right top, #ff7f7f, #ff8686, #ff8c8c, #ff9393, #ff9999);
+ 
   height: 625.5px;
   display: flex;
 }
-
-.container{
+.container_first{
   align-items: center;
+  margin: 250px 250px;
 }
