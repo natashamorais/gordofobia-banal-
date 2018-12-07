@@ -1,12 +1,12 @@
 
 .textHome{
-  background-image: radial-gradient(circle, #fe9090, #fe8c8c, #fe8989, #fe8585, #fe8181);
-  height: 625.5px;
+  background-image: radial-gradient(circle, #edd5d7, #efbdc1, #f0a4aa, #ee8b93, #eb717b);
+  height: 100vh;
   display: flex;
 }
 
 .container_home{
-  align-items: center;
-  margin: 250px 600px;
+  margin: 0 auto;
+  padding: 325px;
 }
 

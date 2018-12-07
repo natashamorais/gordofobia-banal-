@@ -8,7 +8,7 @@ class Text3 extends Component {
   render() {
     return (
       <div className="thirdText">
-        <div className="container">
+        <div className="container_third">
           <TextTyping className="text" router="/Text4" text=" Tosse? É refluxo por causa do peso, emagreça!" > </TextTyping>
           
 

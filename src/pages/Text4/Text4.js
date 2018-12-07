@@ -7,8 +7,8 @@ class Text4 extends Component {
   render() {
     return (
       <div className="fourthText">
-        <div className="container">
-          <TextTyping className="Text" text="Dor de barriga? Você come demais, emagreça !" router ="/Text5"> </TextTyping>
+        <div className="container_fourth">
+        <TextTyping className="Text" text="Dor de barriga? Você come demais, emagreça!" router="Text5"> </TextTyping>
       </div>
       </div>
 

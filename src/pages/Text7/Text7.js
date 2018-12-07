@@ -8,7 +8,7 @@ class Text7 extends Component {
     return (
       <div className="seventhText">
         <div className="container_seventh">
-          <TextTyping className="Text" text="Pessoas gordas morrem por negligência médica quando se recusam a tratar seus sintomas além da obesidade" router="/Text8"> </TextTyping>
+          <TextTyping className="Text" text="Pessoas gordas morrem por negligência médica quando os agentes de saúde se recusam a tratar seus sintomas e tratam apenas seu peso" router="/Text8" > </TextTyping>
       </div>
       </div>
 

@@ -1,9 +1,10 @@
 .fourthText{
-
-  height: 625.5px;
+  background-image: radial-gradient(circle, #ff9999, #ff7f7c, #ff635c, #fa433b, #f21414);
+  height: 100vh;
   display: flex;
 }
 
-.container{
-  align-items: center;
+.container_fourth{
+  margin: 0 auto;
+  padding: 325px;
 }

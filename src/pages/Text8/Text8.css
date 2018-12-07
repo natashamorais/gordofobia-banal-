@@ -1,9 +1,10 @@
 .eightText{
   background-image: radial-gradient(circle, #cb2424, #c62323, #c02222, #bb2121, #b62020);
-  height: 625.5px;
+  height: 100vh;
   display: flex;
 }
 
-.container{
-  align-items: center;
+.container_eight{
+  margin: 0 auto;
+  padding: 235px;
 }

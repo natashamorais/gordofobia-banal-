@@ -1,12 +1,11 @@
 .thirdText{
- background-image: radial-gradient(circle, #fe8181, #ff7777, #ff6d6c, #ff6262, #fe5757);
-  height: 625.5px;
+  background-image: radial-gradient(circle, #ff9999, #fd8381, #fa6c69, #f45350, #ed3636);
+  height: 100vh;
   display: flex;
 }
 
-.container{
-  align-items: center;
+.container_third{
+ margin: 0 auto;
+ padding: 325px;
 }
 
-/* 
-background-image: radial-gradient(circle, #fe2e2e, #f12b2b, #e42929, #d82626, #cb2424); */

@@ -1,10 +1,10 @@
 .sixthText{
-  background-image: radial-gradient(circle, #fe2e2e, #f12b2b, #e42929, #d82626, #cb2424);
-
-  height: 625.5px;
+  background-image: radial-gradient(circle, #ff6666, #eb5251, #d73e3d, #c3282a, #ae0816);  
+   height: 100vh;
   display: flex;
 }
 
-.container{
-  align-items: center;
+.container_sixth{
+  margin: 0 auto;
+  padding: 237px;
 }

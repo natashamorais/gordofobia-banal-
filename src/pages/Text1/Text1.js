@@ -10,7 +10,7 @@ class Text1 extends Component {
 
             <div className="firstText">
                 <div className="container_first">
-                    <TextTyping className="text" router="/Text2" text=" Você não acha que deveria emagrecer? É pra sua saúde ">
+                    <TextTyping className="text" router="/Text2" text=" Você não acha que deveria emagrecer? É pra sua saúde... ">
                     </TextTyping>
 
                 </div>

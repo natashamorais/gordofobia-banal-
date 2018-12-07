@@ -1,9 +1,10 @@
 .ninethText{
-  background-image: radial-gradient(circle, #cb2424, #c62323, #c02222, #bb2121, #b62020);
-  height: 625.5px;
+  background-image: radial-gradient(circle, #cb1a1a, #cd181b, #d0151c, #d2111d, #d50d1e);
+  height: 100vh;
   display: flex;
 }
 
-.container{
-  align-items: center;
+.container_nineth{
+  margin: 0 auto;
+  padding: 325px;
 }

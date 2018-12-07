@@ -1,11 +1,12 @@
 .secondText{
-  background-image: radial-gradient(circle, #fe8181, #ff7777, #ff6d6c, #ff6262, #fe5757);
-  height: 625.5px;
+
+  background-image: radial-gradient(circle, #ee9494, #ec8281, #e96f6d, #e55b59, #e04545);
+  height:  100vh;
   display: flex;
 }
 
 
 .container_second{
-  align-items: center;
-  margin: 270px 400px;
+  margin: 0 auto;
+  padding: 325px;
 }

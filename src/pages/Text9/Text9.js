@@ -7,7 +7,7 @@ class Text9 extends Component {
   render() {
     return (
       <div className="ninethText">
-        <div className="container">
+        <div className="container_nineth">
 <TextTyping className="Text" text="G O R D O F O B I A ." router="/Text10"> </TextTyping> 
       </div>
       </div >
